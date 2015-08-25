@@ -1,0 +1,14 @@
+]
+						},
+						
+					]
+				};
+                    
+        
+                // load datas to echarts 
+                myChart.setOption(option).setTheme('macarons'); 
+            }
+		);	
+    </script>
+		
+</body>

@@ -1,0 +1,10 @@
+]
+						}
+					],
+					series : [
+						{
+							name:'offset',
+							type:'bar',
+							stack: 'total',
+							itemStyle : { normal: {color: '#ffffff', label : {show: true, position: 'insideRight'}}},
+							data:[

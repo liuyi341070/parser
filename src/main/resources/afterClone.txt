@@ -1,0 +1,8 @@
+]
+						},
+						{
+							name:'cl_rcfgLogic time',
+							type:'bar',
+							stack: 'total',
+							itemStyle : { normal: {label : {show: true, position: 'insideRight'}}},
+							data:[
